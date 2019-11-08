@@ -3,7 +3,7 @@
 require_once 'helpers.php';
 
 echo "<h2> Zadatak GET sa parametrima</h2>";
-echo (formatGetPArams());
+print_r(formatGetPArams());
 echo "<br/>";
 
 echo "<h2>Zadatak sa IP adresama</h2>";
