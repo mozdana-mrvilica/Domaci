@@ -14,7 +14,7 @@
 </head>
 <body>
     <?php
-    $menu =new Menu():
+    $menu =new Menu();
     echo $menu->render();
     ?>
     <h1>Homepage</h1> 
